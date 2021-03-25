@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://tugcenurdaglar-readme.glitch.me/count.svg" alt="Visitor counter" /></td>
+    <td><img src="https://tugcenurdaglar-readme/count.svg" alt="Visitor counter" /></td>
   </tr>
 </table>
 
