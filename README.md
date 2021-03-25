@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/tugcenurdaglar/tugcenurdaglar/blob/main/hand.gif" widt="auto">
+### Hi there
 
 
 - 🔭 I’m currently working on Android Mobile Apps
