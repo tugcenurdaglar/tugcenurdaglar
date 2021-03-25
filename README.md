@@ -7,7 +7,7 @@
 - 📫 How to reach me: tugcenurdaglar@gmail.com
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=tugcenurdaglar&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcenurdaglar&layout=compact&theme=radical_count=18)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=tugcenurdaglar&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcenurdaglar&layout=compact&theme=calm&langs_count=18)
 
 <table>
   <tr>
