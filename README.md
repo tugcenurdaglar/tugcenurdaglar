@@ -16,7 +16,6 @@
   </tr>
 </table>
 
-https://accounts.spotify.com/authorize?client_id={SPOTIFY_CLIENT_ID}&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
 
 
 
