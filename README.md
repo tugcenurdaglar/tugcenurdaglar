@@ -1,5 +1,4 @@
-### Hello World :smile:
-I'm Tuğçe <img src="https://github.com/tugcenurdaglar/tugcenurdaglar/blob/main/hand.gif" width="28px">
+### Hello World :smile: I'm Tuğçe <img src="https://github.com/tugcenurdaglar/tugcenurdaglar/blob/main/hand.gif" width="28px">
 
 
 
