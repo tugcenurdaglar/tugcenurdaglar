@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td>:monocle_face:you are the best visitor of </td>
+    <td>:monocle_face: You are the best visitor of </td>
     <td><img src="https://profile-counter.glitch.me/tugcenurdaglar/count.svg" alt="Visitor counter"/></td>
   </tr>
 </table>
