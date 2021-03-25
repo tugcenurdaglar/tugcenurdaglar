@@ -1,4 +1,5 @@
-### Hi there
+### Hi there I'm Tuğçe <img src="https://github.com/tugcenurdaglar/tugcenurdaglar/blob/main/hand.gif" width="25px">
+
 
 
 - 🔭 I’m currently working on Android Mobile Apps
